@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="img/Frame 5 .png"  align="center" style="width: 100%" />
+<img src="img/logo.png"  align="center" style="width: 100%" />
 </div>  
 
 ### <div align="center">Привет, меня зовут Роман Вороноский.  Я back-end разработчик 👨‍💻 работаю удаленно с 2021 года 🚀</div>
