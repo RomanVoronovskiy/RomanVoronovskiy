@@ -5,19 +5,14 @@
 
 ### <div align="center">Привет, меня зовут Роман Вороноский.  Я back-end разработчик 👨‍💻 работаю удаленно с 2021 года 🚀</div>
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)
+- 🔭 В настоящее время я работаю над [TG-bot](https://t.me/boost_for_java_bot)
 
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes
+- 🌱 В настоящее время я изучаю [GO](https://go.dev/)
 
 
-- ❓ Ask me about anything related to MERN stack and related technologies
-
-
-- ⚡ Fun fact: I use tabs over spaces
-
-
-<br/>  
+- ❓ Можете задавать свои вопросы под видео [YouTube](https://www.youtube.com/channel/UCXVFqu5evQkGB3TyMctXDxA)
+ 
 
 
 ## My Skill Set
