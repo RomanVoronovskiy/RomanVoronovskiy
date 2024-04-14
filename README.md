@@ -60,10 +60,8 @@
 </td></tr></table>  
 
 <br/>  
-<table>
 
-<tr>
-<td valign="top" width="33%">
+<table><tr><td valign="top" width="1200px">
 
 ### DevOps
 <div align="center" >  
@@ -72,9 +70,7 @@
 <a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="75" /></a>  
 </div>
 
-</td>
-</tr>
-</table>
+</td></tr></table>
 
 ## Connect with me
 <div align="center">
@@ -87,6 +83,9 @@
 <a href="https://www.youtube.com/channel/UCXVFqu5evQkGB3TyMctXDxA" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
+  <a href=https://t.me/boost_for_java" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" alt="telegram logo" style="margin-bottom: 5px;"  />
+  </a>
 </div>  
 
 
