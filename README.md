@@ -93,9 +93,9 @@
 
 
 ## Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=RomanVoronovskiy&show_icons=true&count_private=true&hide_border=true" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api?username=RomanVoronovskiy&show_icons=true&theme=onedark&count_private=true&hide_border=true" align="left" />  
 
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomanVoronovskiy&hide_border=true&layout=compact" align="right" /></div>  
+<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomanVoronovskiy&hide_border=true&theme=onedark&layout=compact" align="right" /></div>  
 
 
 
